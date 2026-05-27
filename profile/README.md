@@ -68,16 +68,4 @@ Research groups within the Helmholtz Association can request AI consulting suppo
 
 We offer Exploration vouchers (short, scoping-focused) and Realization vouchers (longer implementation projects). If you are unsure whether your project is a good fit, feel free to reach out by email first.
 
----
-
-## Team & contact
-
-| | |
-|---|---|
-| **Team page** | [helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team](https://www.helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team/) |
-| **Team lead** | Marie Piraud |
-| **Email** | [consultant-helmholtz.ai@helmholtz-munich.de](mailto:consultant-helmholtz.ai@helmholtz-munich.de) |
-| **Location** | Helmholtz Munich, Munich, Germany |
-
----
-
+**[→ Contact us](mailto:consultant-helmholtz.ai@helmholtz-munich.de)**
