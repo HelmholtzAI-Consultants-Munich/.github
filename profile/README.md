@@ -14,7 +14,7 @@
 
 ## Who we are
 
-We are a **health-focused AI consultancy team** based at [Helmholtz Munich](https://www.helmholtz-munich.de), operating as part of [Helmholtz AI](https://www.helmholtz.ai) - Germany's national AI initiative for science.
+We are a **[health-focused AI consultancy team](https://www.helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team/)** based at [Helmholtz Munich](https://www.helmholtz-munich.de), operating as part of [Helmholtz AI](https://www.helmholtz.ai) - Germany's national AI initiative for science.
 
 Our team supports life science researchers in applying **machine learning and deep learning** to their research - from early project scoping through to implementation, code review, and publication. We work across imaging, omics, clinical data, time series, and responsible AI, collaborating with research groups across the Helmholtz Association.
 
