@@ -34,13 +34,15 @@ We are key actors in Helmholtz AI's mission of **democratising AI for data-drive
 
 ## Selected repositories
 
-### Research
+### Research & Tools
 
 | Repository | Description |
 |---|---|
-| [oligo-designer-toolsuite](https://github.com/HelmholtzAI-Consultants-Munich/oligo-designer-toolsuite) | Modular Python framework for custom oligo probe design pipelines (spatial transcriptomics, FISH) |
-| [fg-clustering](https://github.com/HelmholtzAI-Consultants-Munich/fg-clustering) | Forest-Guided Clustering - explainability for Random Forest models via decision-path subgroups |
-| [napari-organoid-counter](https://github.com/HelmholtzAI-Consultants-Munich/napari-organoid-counter) | Napari plugin for automated organoid detection and counting from brightfield microscopy images |
+| [oligo-designer-toolsuite](https://github.com/HelmholtzAI-Consultants-Munich/oligo-designer-toolsuite) | Modular Python framework for custom oligo probe design pipelines, including the CycleHCR probe-design pipeline (spatial transcriptomics, FISH, oligo-seq) |
+| [fg-clustering](https://github.com/HelmholtzAI-Consultants-Munich/fg-clustering) | Forest-Guided Clustering - computes feature importance from decision-path subgroups within Random Forest models, avoiding misleading correlated-feature interpretations |
+| [data-centric-platform](https://github.com/HelmholtzAI-Consultants-Munich/data-centric-platform) | BATS: data-centric annotation platform for microscopy images, using baseline models (e.g. CellPose) plus expert-in-the-loop correction to minimise labelling time |
+
+We have many more projects than these three - check out the rest of our repositories here: [→ Browse all repositories](https://github.com/orgs/HelmholtzAI-Consultants-Munich/repositories)
 
 ### Teaching materials
 
@@ -49,14 +51,6 @@ We are key actors in Helmholtz AI's mission of **democratising AI for data-drive
 | [XAI-Tutorials](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials) | Self-contained tutorials on model-agnostic and model-specific explainability methods |
 | [DimRed-Course](https://github.com/HelmholtzAI-Consultants-Munich/DimRed-Course) | 4-hour hands-on introduction to dimensionality reduction for high-dimensional biological data |
 | [llm-transformers-course](https://github.com/HelmholtzAI-Consultants-Munich/llm-transformers-course) | Lecture notes, code, and exercises on Transformers and Large Language Models |
-
-### Software & tools
-
-| Repository | Description |
-|---|---|
-| [data-centric-platform](https://github.com/HelmholtzAI-Consultants-Munich/data-centric-platform) | Data-centric annotation platform for microscopy images - minimises expert labelling time |
-
-→ [Browse all repositories](https://github.com/orgs/HelmholtzAI-Consultants-Munich/repositories)
 
 ---
 
